@@ -33,7 +33,7 @@ Li posem de nom **JuanCarlosPons-arxius** a la branca nova i proposem el canvi a
 
 4. Ara ens trobem al pas de sol·licitud d'extracció (*pull request*), on comprovem que les dues branques es comparen correctament (que cadascuna es troba a la seva pestanya corresponent) i observem el següent missatge:
 
- *  **_Able to merge_**. These branches can be automatically merged*.  
+ *  **_Able to merge_**. These branches can be automatically merged.  
 
 5. Si volem, podem editar la descripció del *commit* que hem fet abans i ja podem fer *click* al botó **_Create pull request_**,
 i d'aquesta manera el *commit* queda publicat i a la branca secundària que s'ha creat de banda de la mestre (*master*).
